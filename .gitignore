@@ -1,0 +1,5 @@
+# Roblox / Rojo
+roblox/sourcemap.json
+*.rbxl.lock
+*.rbxlx.lock
+__pycache__/
